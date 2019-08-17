@@ -1,0 +1,5 @@
+0x010004bc  0 xfe.Xfe                N/A Xfe - /home/somebody/Development/places/misc
+0x01200006  0 gnome-terminal-server.Gnome-terminal  somebody somebody@somebody: ~/Development/places/misc
+0x00e00003  0 geany.Geany           somebody *untitled - Geany
+0x01600066  0 Navigator.Firefox-esr  somebody Get Docker Engine - Community for Debian | Docker Documentation - Mozilla Firefox
+0x01600071  0 Navigator.Firefox-esr  somebody Mozart: Horn Concertos - YouTube - Mozilla Firefox
